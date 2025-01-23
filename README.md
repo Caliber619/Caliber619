@@ -1,5 +1,19 @@
 <h1 align="center">Hola Amigos🙌 , I'm Kshitij Dev</h1>
-<h3 align="center">🚀 M.Tech Software Engineering @ VIT Vellore | 🔐 Software Security | 🧠 NLP & ML Enthusiast | 💻 Full Stack Developer | 🎯 Continuous Learner | Ideas into code</h3>
+# 👋 About Me  
+
+Hi there! I'm a **final-year MTech Integrated Software Engineering student** passionate about coding, problem-solving, and exploring new technologies.  
+
+## 🔧 Skills & Interests  
+- 💻 **DSA Enthusiast**: Proficient in arrays, strings, recursion, and ArrayLists; currently diving into linked lists, stacks, queues, and trees.  
+- 🤖 **AI/ML Aspirant**: Eager to work on machine learning projects and build intelligent systems.  
+- 🌐 **Web Development Curious**: Experimented with JavaScript and shared my learning progress in [this repository](#).  
+
+## 🚀 Goals  
+- Master **AI/ML** and complete impactful projects.  
+- Ace upcoming **placements** by sharpening my DSA and problem-solving skills.  
+- Contribute to open-source and collaborate on innovative projects.
+
+![Coding GIF](https://tenor.com/view/piza-ninjas-pizzaninjas-coding-price-chart-chart-go-up-gif-4857766874673446615)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caliber619&label=Profile%20views&color=0e75b6&style=flat" alt="caliber619" /> </p>
 
@@ -8,7 +22,6 @@
 - 🌱 I’m currently learning *React, Node JS, Data Structures*
 
 - 💬 Ask me about *React, javascript, java*
-<div class="tenor-gif-embed" data-postid="4857766874673446615" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/piza-ninjas-pizzaninjas-coding-price-chart-chart-go-up-gif-4857766874673446615">Piza Ninjas Pizzaninjas GIF</a>from <a href="https://tenor.com/search/piza+ninjas-gifs">Piza Ninjas GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 📫 How to reach me *yadav.d.kshitij2003@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
