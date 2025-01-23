@@ -1,4 +1,4 @@
-##👋 About Me  
+👋 About Me  
 <h1 align="center">Hola Amigos🙌 , I'm Kshitij Dev</h1>
 
 Hi there! I'm a **final-year MTech Integrated Software Engineering student** passionate about coding, problem-solving, and exploring new technologies.  
