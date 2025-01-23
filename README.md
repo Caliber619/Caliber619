@@ -26,7 +26,7 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/caliber?t=ZhZJE-RBnmd3nStTCyMQCg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@caliber" height="30" width="40" /></a>
+<a href="https://x.com/_caliber___?t=ZhZJE-RBnmd3nStTCyMQCg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@caliber" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kshitij-dev-496860247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij dev" height="30" width="40" /></a>
 </p>
 
