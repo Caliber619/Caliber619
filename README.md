@@ -13,7 +13,7 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 - Ace upcoming **placements** by sharpening my DSA and problem-solving skills.  
 - Contribute to open-source and collaborate on innovative projects.
 
-![Coding GIF](https://tenor.com/view/piza-ninjas-pizzaninjas-coding-price-chart-chart-go-up-gif-4857766874673446615)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caliber619&label=Profile%20views&color=0e75b6&style=flat" alt="caliber619" /> </p>
 
