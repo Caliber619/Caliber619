@@ -1,4 +1,5 @@
 <h1 align="center">Hola Amigos🙌 , I'm Kshitij Dev</h1>
+![](https://github.com/Caliber619/Caliber619/blob/main/Animation%20-%201737653813503.gif)
 # 👋 About Me  
 
 Hi there! I'm a **final-year MTech Integrated Software Engineering student** passionate about coding, problem-solving, and exploring new technologies.  
@@ -13,7 +14,7 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 - Ace upcoming **placements** by sharpening my DSA and problem-solving skills.  
 - Contribute to open-source and collaborate on innovative projects.
 
-
+![](https://github.com/Caliber619/Caliber619/blob/main/Simple%20Black%20and%20White%20Text%20Instagram%20Post%20(2).gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caliber619&label=Profile%20views&color=0e75b6&style=flat" alt="caliber619" /> </p>
 
