@@ -1,5 +1,5 @@
 👋 About Me  
-<h1 align="center">Hola Amigos🙌 , I'm Kshitij Dev</h1>
+<h1 align="center">Greetings my fellow developers🙌 , I'm Kshitij Dev</h1>
 
 Hi there! I'm a **final-year MTech Integrated Software Engineering student** passionate about coding, problem-solving, and exploring new technologies.  
 ![](https://github.com/Caliber619/Caliber619/blob/main/Animation%20-%201737653813503.gif)
