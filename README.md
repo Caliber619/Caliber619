@@ -2,6 +2,10 @@
 <h1 align="center">Greetings my fellow developers🙌 , I'm Kshitij Dev</h1>
 
 Hi there! I'm a **final-year MTech Integrated Software Engineering student** passionate about coding, problem-solving, and exploring new technologies.  
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="When you fix a bug without knowing how 😅">
+</p>
+
 ![](https://github.com/Caliber619/Caliber619/blob/main/Animation%20-%201737653813503.gif)
 ## 🔧 Skills & Interests  
 - 💻 **DSA Enthusiast**: Proficient in arrays, strings, recursion, and ArrayLists; currently diving into linked lists, stacks, queues, and trees.  
