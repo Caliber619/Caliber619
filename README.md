@@ -6,12 +6,6 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Minimalist Code Animation">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="It Works!">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Deploying Code">
-</p>
-<p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Code Effect">
 </p>
 
