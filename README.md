@@ -8,7 +8,9 @@
 Hi there! I'm a **final-year MTech Integrated Software Engineering student** passionate about coding, problem-solving, and exploring new technologies.  
 
 ## 🔧 Skills & Interests  
-- 💻 **DSA Enthusiast**: Proficient in arrays, strings, recursion, and ArrayLists; currently diving into linked lists, stacks, queues, and trees.  
+- 💻 **DSA Enthusiast**: Proficient in arrays, strings, recursion, and ArrayLists; currently diving into linked lists, stacks, queues, and trees.
+- My GitHub streak
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
 - 🤖 **AI/ML Aspirant**: Eager to work on machine learning projects and build intelligent systems.  
 - 🌐 **Web Development Curious**: Experimented with JavaScript and shared my learning progress in [this repository](https://github.com/Caliber619/javascript-learning).  
 
