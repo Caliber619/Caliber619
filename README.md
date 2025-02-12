@@ -10,7 +10,7 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 ## 🔧 Skills & Interests  
 - 💻 **DSA Enthusiast**: Proficient in arrays, strings, recursion, and ArrayLists; currently diving into linked lists, stacks, queues, and trees.
 - 
-- My GitHub streak this month
+- ## My GitHub streak this month
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/K_DEV?theme=dark&ext=heatmap)
 - My HackerRank stats
 - ## My HackerRank Progress 🏆
