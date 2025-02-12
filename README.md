@@ -13,9 +13,6 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/K_DEV?theme=dark&ext=heatmap)
 - 🤖 **AI/ML Aspirant**: Eager to work on machine learning projects and build intelligent systems.  
 - 🌐 **Web Development Curious**: Experimented with JavaScript and shared my learning progress in [this repository](https://github.com/Caliber619/javascript-learning).
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caliber619&theme=dark&hide_border=true)
-- ![Metrics](https://raw.githubusercontent.com/Caliber619/Caliber619/main/github-metrics.svg)
-
   
 
 ## 🚀 Goals  
