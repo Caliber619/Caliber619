@@ -12,8 +12,7 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 - 
 - ## My GitHub streak this month
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/K_DEV?theme=dark&ext=heatmap)
-- ## My HackerRank Progress 🏆
-- ![](https://img.shields.io/badge/HackerRank-Stars-🌟-green)
+
 - 🤖 **AI/ML Aspirant**: Eager to work on machine learning projects and build intelligent systems.  
 - 🌐 **Web Development Curious**: Experimented with JavaScript and shared my learning progress in [this repository](https://github.com/Caliber619/javascript-learning).  
 
@@ -23,10 +22,6 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 - Contribute to open-source and collaborate on innovative projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caliber619&label=Profile%20views&color=0e75b6&style=flat" alt="caliber619" /> </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Code Effect" width="70%">
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caliber619" alt="caliber619" /></a> </p>
 
