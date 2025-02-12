@@ -13,7 +13,8 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 - My GitHub streak this month
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/K_DEV?theme=dark&ext=heatmap)
 - My HackerRank stats
-- ![HackerRank Badge](https://img.shields.io/badge/dynamic/json?color=green&label=HackerRank&query=stars&url=https://www.hackerrank.com/rest/hackers/K_Dev/profile)
+- ## My HackerRank Progress 🏆
+- ![HackerRank Stats](https://img.shields.io/badge/HackerRank-Stars-🌟🌟🌟🌟🌟-green)
 - 
 - 🤖 **AI/ML Aspirant**: Eager to work on machine learning projects and build intelligent systems.  
 - 🌐 **Web Development Curious**: Experimented with JavaScript and shared my learning progress in [this repository](https://github.com/Caliber619/javascript-learning).  
