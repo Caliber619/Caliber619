@@ -1,33 +1,25 @@
 name: Update LeetCode Stats
-
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 0 * * *" # Runs daily at midnight
 
 jobs:
-  update-leetcode:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch current README
-        run: cp README.md README_OLD.md
-
-      - name: Update LeetCode Stats
-        run: |
-          sed -i '/<!-- LEETCODE_STATS_START -->/,/<!-- LEETCODE_STATS_END -->/c\<!-- LEETCODE_STATS_START -->\n![LeetCode Stats](https://leetcard.jacoblin.cool/K_DEV?theme=dark&ext=contest)\n<!-- LEETCODE_STATS_END -->' README.md
-
-      - name: Update LeetCode Heatmap
-        run: |
-          sed -i '/<!-- LEETCODE_HEATMAP_START -->/,/<!-- LEETCODE_HEATMAP_END -->/c\<!-- LEETCODE_HEATMAP_START -->\n![LeetCode Heatmap](https://leetcard.jacoblin.cool/K_DEV?theme=dark&type=heatmap)\n<!-- LEETCODE_HEATMAP_END -->' README.md
+      - name: Fetch LeetCode Stats
+        uses: suraj122/leetcode-stats-box@main
+        with:
+          username: "K_DEV"
+          theme: dark
 
       - name: Commit and push if changed
         run: |
-          if ! diff README.md README_OLD.md > /dev/null ; then
-            git config --global user.name "GitHub Actions"
-            git config --global user.email "actions@github.com"
-            git add README.md
-            git commit -m "Updated LeetCode stats and heatmap"
-            git push
-          fi
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated LeetCode stats" || exit 0
+          git push
