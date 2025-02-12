@@ -1,9 +1,8 @@
-name: Update Stats
+name: Update LeetCode Stats
 
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering
 
 jobs:
   update-leetcode:
@@ -18,29 +17,15 @@ jobs:
           username: "K_DEV"
           theme: dark
 
-      - name: Commit and push if changed
+      - name: Fetch LeetCode Heatmap
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "Updated LeetCode stats" || exit 0
-          git push
-
-  update-hackerrank:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Fetch HackerRank Stats
-        run: |
-          curl -s "https://www.hackerrank.com/rest/hackers/K_Dev/profile" | jq '.model | {stars, contests, badges}' > hackerrank.json
-          echo "![](https://img.shields.io/badge/HackerRank-Stars-🌟$(jq -r '.stars' hackerrank.json)-green)" >> README.md
+          echo "![LeetCode Heatmap](https://leetcard.jacoblin.cool/K_DEV?theme=dark&type=heatmap)" > heatmap.md
+          cat heatmap.md >> README.md
 
       - name: Commit and push if changed
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated HackerRank stats" || exit 0
+          git commit -m "Updated LeetCode stats and heatmap" || exit 0
           git push
