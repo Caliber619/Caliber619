@@ -46,4 +46,3 @@ Hi there! I'm a **final-year MTech Integrated Software Engineering student** pas
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caliber619&show_icons=true&locale=en" alt="caliber619" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caliber619&" alt="caliber619" /></p>
